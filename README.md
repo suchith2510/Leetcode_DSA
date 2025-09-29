@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/suchith2510/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/suchith2510/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/suchith2510/Leetcode_DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/suchith2510/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/suchith2510/Leetcode_DSA/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/suchith2510/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/suchith2510/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
