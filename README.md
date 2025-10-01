@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suchith2510/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/suchith2510/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/suchith2510/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suchith2510/Leetcode_DSA/tree/master/0001-two-sum) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/suchith2510/Leetcode_DSA/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Sorting
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
