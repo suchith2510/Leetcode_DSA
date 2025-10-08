@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/suchith2510/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/suchith2510/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0907-koko-eating-bananas](https://github.com/suchith2510/Leetcode_DSA/tree/master/0907-koko-eating-bananas) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/suchith2510/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/suchith2510/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
+| [0907-koko-eating-bananas](https://github.com/suchith2510/Leetcode_DSA/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
