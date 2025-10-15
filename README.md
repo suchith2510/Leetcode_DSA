@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suchith2510/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/suchith2510/Leetcode_DSA/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/suchith2510/Leetcode_DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/suchith2510/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/suchith2510/Leetcode_DSA/tree/master/0907-koko-eating-bananas) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4052-equal-score-substrings](https://github.com/suchith2510/Leetcode_DSA/tree/master/4052-equal-score-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/suchith2510/Leetcode_DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
