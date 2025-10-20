@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suchith2510/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/suchith2510/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/suchith2510/Leetcode_DSA/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suchith2510/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/suchith2510/Leetcode_DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suchith2510/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/suchith2510/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [4052-equal-score-substrings](https://github.com/suchith2510/Leetcode_DSA/tree/master/4052-equal-score-substrings) |
 ## Binary Search
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/suchith2510/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
