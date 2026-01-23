@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/suchith2510/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/suchith2510/Leetcode_DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
