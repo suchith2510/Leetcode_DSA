@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suchith2510/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/suchith2510/Leetcode_DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/suchith2510/Leetcode_DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/suchith2510/Leetcode_DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/suchith2510/Leetcode_DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/suchith2510/Leetcode_DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0338-counting-bits) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/suchith2510/Leetcode_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
