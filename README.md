@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/suchith2510/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0877-stone-game](https://github.com/suchith2510/Leetcode_DSA/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/suchith2510/Leetcode_DSA/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/suchith2510/Leetcode_DSA/tree/master/1046-last-stone-weight) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/suchith2510/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/suchith2510/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/suchith2510/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
+| [0877-stone-game](https://github.com/suchith2510/Leetcode_DSA/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/suchith2510/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0338-counting-bits) |
+| [0877-stone-game](https://github.com/suchith2510/Leetcode_DSA/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/suchith2510/Leetcode_DSA/tree/master/0078-subsets) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/suchith2510/Leetcode_DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
