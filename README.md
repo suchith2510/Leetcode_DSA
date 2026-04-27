@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/suchith2510/Leetcode_DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/suchith2510/Leetcode_DSA/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suchith2510/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/suchith2510/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/suchith2510/Leetcode_DSA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suchith2510/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/suchith2510/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0907-koko-eating-bananas](https://github.com/suchith2510/Leetcode_DSA/tree/master/0907-koko-eating-bananas) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suchith2510/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suchith2510/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/suchith2510/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/suchith2510/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/1019-squares-of-a-sorted-array) |
