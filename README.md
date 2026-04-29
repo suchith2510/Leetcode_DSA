@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suchith2510/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suchith2510/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suchith2510/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suchith2510/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suchith2510/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/suchith2510/Leetcode_DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suchith2510/Leetcode_DSA/tree/master/0125-valid-palindrome) |
@@ -139,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suchith2510/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/suchith2510/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
