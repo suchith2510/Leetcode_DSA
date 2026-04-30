@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/suchith2510/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/suchith2510/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/suchith2510/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/suchith2510/Leetcode_DSA/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/suchith2510/Leetcode_DSA/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suchith2510/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/suchith2510/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/suchith2510/Leetcode_DSA/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/suchith2510/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
