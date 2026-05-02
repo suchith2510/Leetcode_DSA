@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/suchith2510/Leetcode_DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suchith2510/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/suchith2510/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/suchith2510/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/suchith2510/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/suchith2510/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/suchith2510/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/suchith2510/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
