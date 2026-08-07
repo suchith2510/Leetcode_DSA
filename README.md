@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suchith2510/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/suchith2510/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/suchith2510/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/suchith2510/Leetcode_DSA/tree/master/0739-daily-temperatures) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/suchith2510/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suchith2510/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/suchith2510/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/suchith2510/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0907-koko-eating-bananas](https://github.com/suchith2510/Leetcode_DSA/tree/master/0907-koko-eating-bananas) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/suchith2510/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/suchith2510/Leetcode_DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
