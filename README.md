@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/suchith2510/Leetcode_DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suchith2510/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/suchith2510/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/suchith2510/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
 | [4052-equal-score-substrings](https://github.com/suchith2510/Leetcode_DSA/tree/master/4052-equal-score-substrings) |
 ## Binary Search
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/suchith2510/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/suchith2510/Leetcode_DSA/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
