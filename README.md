@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/suchith2510/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/suchith2510/Leetcode_DSA/tree/master/1872-stone-game-viii) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/suchith2510/Leetcode_DSA/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/suchith2510/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/suchith2510/Leetcode_DSA/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/suchith2510/Leetcode_DSA/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/suchith2510/Leetcode_DSA/tree/master/1872-stone-game-viii) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/suchith2510/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/suchith2510/Leetcode_DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
+| [1872-stone-game-viii](https://github.com/suchith2510/Leetcode_DSA/tree/master/1872-stone-game-viii) |
 ## Memoization
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/suchith2510/Leetcode_DSA/tree/master/1872-stone-game-viii) |
 | [4052-equal-score-substrings](https://github.com/suchith2510/Leetcode_DSA/tree/master/4052-equal-score-substrings) |
 ## Bit Manipulation
 |  |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/suchith2510/Leetcode_DSA/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/suchith2510/Leetcode_DSA/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/suchith2510/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/suchith2510/Leetcode_DSA/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/suchith2510/Leetcode_DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
