@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/suchith2510/Leetcode_DSA/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/suchith2510/Leetcode_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/suchith2510/Leetcode_DSA/tree/master/1872-stone-game-viii) |
+| [1920-build-array-from-permutation](https://github.com/suchith2510/Leetcode_DSA/tree/master/1920-build-array-from-permutation) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/suchith2510/Leetcode_DSA/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/suchith2510/Leetcode_DSA/tree/master/1920-build-array-from-permutation) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/suchith2510/Leetcode_DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String Matching
 |  |
