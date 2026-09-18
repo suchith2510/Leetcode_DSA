@@ -21,7 +21,7 @@ class Solution {
     }
     public int find(int x){
         if(leader[x]==x) return x;
-        leader[x]= find(leader[x]);
-        return leader[x];
+        return leader[x]=find(leader[x]);
+        // return leader[x];
     }
 }
